@@ -1,7 +1,8 @@
-## Hi there 👋
+##                                           Hi there 👋
 
 <!--
 **aleeeGG/aleeeGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1900" height="684" alt="image" src="https://github.com/user-attachments/assets/3b13dcb8-7110-482d-9e58-79e8a6ca2a12" />
 
 Here are some ideas to get you started:
 
