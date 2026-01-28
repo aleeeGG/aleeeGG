@@ -1,10 +1,6 @@
 ##                                           Hi there 👋
 
-<!--
-**aleeeGG/aleeeGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img width="1900" height="684" alt="image" src="https://github.com/user-attachments/assets/3b13dcb8-7110-482d-9e58-79e8a6ca2a12" />
-
-Here are some ideas to get you started:
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/user-attachments/assets/bd791432-c4d2-443f-b5b5-97e956b9e38a)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
